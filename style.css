@@ -1,0 +1,45 @@
+.img1{
+    height: 70px;
+    border-radius: 5px;
+    position:relative;
+}
+.img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: black;
+    border-width: 5px;
+    border-color: white;
+
+}
+.result{
+    font-size: 30px;
+    margin: 20px;
+    margin-top: 100ox;
+}
+.image{
+    width: 100px;
+    height: 100px;
+}
+.score{
+    font-size: 20px;
+    margin: 50px;
+    margin-right: 20px;
+}
+.reset{
+    height: 30px;
+    width: 80pxs;
+    margin-left: 50px;
+    border-radius:10px;
+    background-color: rgb(3, 3, 3);
+    color: white;
+}
+.color1{
+    background-color: red;
+}
+.color2{
+    background-color: rgb(214, 225, 6);
+}
+.color3{
+    background-color: rgb(4, 243, 4);
+}
